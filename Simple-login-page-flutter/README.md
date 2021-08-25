@@ -1,6 +1,6 @@
 # Login & Sign Up page 
 
-![](Image/Login.jpg | height=400)
+![](Image/Login.jpg)
 
 ## Getting Started
 
